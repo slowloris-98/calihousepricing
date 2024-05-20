@@ -20,4 +20,4 @@ Install libraries
 pip install -r requirements.txt
 ```
 
-##### Credits to Krish Nai
+##### P.S. Credits to Krish Nai
