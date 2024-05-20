@@ -1,4 +1,3 @@
-## Credits to Krish Naik
 ### California House Pricing Prediction
 
 ### Software & Tools
@@ -21,3 +20,4 @@ Install libraries
 pip install -r requirements.txt
 ```
 
+# Credits to Krish Nai
